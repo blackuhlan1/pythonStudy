@@ -15,3 +15,6 @@ pip install jsonpath
 根据文字类别（题目、小标题、正文）组装pdf文件
 保存pdf文件
 从网页上处理生成pdf和下载pdf目前欠缺
+
+运行
+python requestweb.py
